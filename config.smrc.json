@@ -1,0 +1,19 @@
+{
+  "head":{
+    "name": "theuselessrepository",
+    "version: "0.0",
+    "last-updated": "10-8-21",
+    "prefix": "/tur/",
+    "author": "NoKoda",
+    "documentation": null,
+    "requirements": "requirements.txt"
+    "license": null
+  },
+  "content":{
+    "ignore": [
+      "liability_concerns.txt",
+      "we_are_scammers.txt",
+      "age_policy.txt"
+    ],
+  }
+}
