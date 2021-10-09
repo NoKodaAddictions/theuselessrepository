@@ -6,7 +6,7 @@
     "prefix": "/tur/",
     "author": "NoKoda",
     "documentation": null,
-    "requirements": "requirements.txt"
+    "requirements": "requirements.txt",
     "license": null
   },
   "content":{
