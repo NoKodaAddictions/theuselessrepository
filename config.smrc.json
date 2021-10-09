@@ -1,7 +1,7 @@
 {
   "head":{
     "name": "theuselessrepository",
-    "version: "0.0",
+    "version": "0.0",
     "last-updated": "10-8-21",
     "prefix": "/tur/",
     "author": "NoKoda",
@@ -14,6 +14,6 @@
       "liability_concerns.txt",
       "we_are_scammers.txt",
       "age_policy.txt"
-    ],
+    ]
   }
 }
