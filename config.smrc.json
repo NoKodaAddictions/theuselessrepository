@@ -14,7 +14,8 @@
     "files":[
       "age_policy.txt",
       "liability_concerns.txt",
-      "we_are_scammers.txt"
+      "we_are_scammers.txt",
+      "main.py"
     ]
   }
 }
