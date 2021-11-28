@@ -17,5 +17,8 @@
       "we_are_scammers.txt",
       "main.py"
     ]
+    "requirements":[
+      "python3",
+    ]
   }
 }
