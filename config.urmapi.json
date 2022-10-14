@@ -15,9 +15,18 @@
     "CONTENT":{
         "files":[
             "urm.py",
-            "perk.txt",
             "pop/lorem.txt",
             "otherthingy.txt"
-        ]
+        ],
+        "steps":{
+            "install":[
+                "urm.py",
+                "pop/lorem.txt",
+                "otherthingy.txt"
+            ],
+            "delete":[
+                "perk.txt"
+            ]
+        }
     } 
 }
