@@ -22,7 +22,8 @@
             "install":[
                 "urm.py",
                 "pop/lorem.txt",
-                "otherthingy.txt"
+                "otherthingy.txt",
+                "john/thing/jack.txt"
             ],
             "delete":[
                 "perk.txt"
