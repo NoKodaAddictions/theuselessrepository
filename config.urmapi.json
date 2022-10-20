@@ -2,7 +2,7 @@
     "HEAD":{
         "package":{
             "name":"Test Package",
-            "version":"1.2",
+            "version":"1.3",
             "description":"A Test Package to see if URM-API actually works",
             "license":"",
             "authors":["NoKodaAddictions"],
