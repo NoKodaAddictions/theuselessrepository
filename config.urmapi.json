@@ -10,25 +10,18 @@
             "os_support":["posix","linux"]
         },
         "config":{
-            "version":"1.0"
+            "version":"1.2"
         }
     },
     "CONTENT":{
-        "files":[
-            "urm.py",
-            "pop/lorem.txt",
-            "otherthingy.txt"
-        ],
-        "steps":{
-            "install":[
-                "urm.py",
-                "pop/lorem.txt",
-                "otherthingy.txt",
-                "john/thing/jack.txt"
-            ],
-            "delete":[
-                "perk.txt"
-            ]
+        "install":{
+            "urm.py":"here",
+            "otherthingy.txt":"here",
+            "pop/lorem.txt":"here",
+            "john/thing/jack.txt":"/home/"
+        },
+        "delete":{
+            "perk.txt":"here"
         }
     } 
 }
