@@ -18,7 +18,8 @@
             "urm.py":"here",
             "otherthingy.txt":"here",
             "pop/lorem.txt":"here",
-            "john/thing/jack.txt":"/home/"
+            "john/thing/jack.txt":"/home/",
+            "john/test.py":"/home/"
         },
         "delete":{
             "perk.txt":"here"
