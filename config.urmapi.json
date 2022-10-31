@@ -22,7 +22,7 @@
             "john/test.py":"/home/"
         },
         "delete":{
-            "perk.txt":"here"
+            "perk.txt":"/home/"
         }
     } 
 }
