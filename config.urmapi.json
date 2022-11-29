@@ -7,7 +7,16 @@
             "license":"",
             "authors":["NoKodaAddictions"],
             "package_url":"https://raw.githubusercontent.com/NoKodaAddictions/theuselessrepository/master/",
-            "os_support":["posix","linux", "nt"]
+            "os_support":["posix","linux", "nt"],
+            "license_description":null,
+            "license_url":null,
+            "keywords":null,
+            "install_message":"Hi! Installing the test package",
+            "vendor_name":null,
+            "vendor_email":null,
+            "vendor_phone":null,
+            "start_file_after_install":null,
+            "deprecated":false
         },
         "config":{
             "version":"1.2"
