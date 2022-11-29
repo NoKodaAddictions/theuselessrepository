@@ -7,7 +7,7 @@
             "license":"",
             "authors":["NoKodaAddictions"],
             "package_url":"https://raw.githubusercontent.com/NoKodaAddictions/theuselessrepository/master/",
-            "os_support":["posix","linux"]
+            "os_support":["posix","linux", "nt"]
         },
         "config":{
             "version":"1.2"
